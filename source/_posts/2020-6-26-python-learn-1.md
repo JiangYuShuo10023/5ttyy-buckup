@@ -24,7 +24,7 @@ pip是python的包管理器,可以安装扩张,后面会频繁使用
 pip install pqi
 ```
 
-让后输入
+然后输入
 
 ```bash
 pqi use tuna
@@ -36,7 +36,7 @@ pqi use tuna
 再输入一下代码:
 
 ```python
-print("Hello World!)
+print("Hello World!")
 ```
 
 是不是见到了Hello World!?恭喜你!你已经迈出了第一步!!

@@ -23,6 +23,14 @@ git commit -m "creat a blog"
 git push -f
 ```
 
+
+用法:
+git clone我的博客
+删除.git文件夹
+按照网上教程去初始化并添加repo
+
+让后运行autoDeploy即可
+
 而且还需要GIT
 
 但不过还是挺好用的
