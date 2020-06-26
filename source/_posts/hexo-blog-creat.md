@@ -20,7 +20,7 @@ updated: 2020/6/26 7:55
 
 你可以直接import我的repo:[Go!](https://github.com/JiangYuShuo10023/Hexo-Template-NeXT)
 
-(P.S. 我最新的更新都在主repo里,如果可以尽量fork这个:[Go!](https://github.com/JiangYuShuo10023)
+(P.S. 我最新的更新都在主repo里,如果可以尽量fork这个:[Go!](https://github.com/JiangYuShuo10023))
 
 弄到你的github里
 
