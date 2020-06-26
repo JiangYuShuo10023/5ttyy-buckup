@@ -2,13 +2,6 @@
 title: Mainpress Demo Page
 ---
 {% raw %}
-<html>
-
-    <head>
-	<title>Mainpress Demo</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -63,6 +56,4 @@ title: Mainpress Demo Page
                      <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
   <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </div>
-    </body>
-</html>
 {% endraw %}
