@@ -119,6 +119,7 @@ menu:
   home: /
   tags: /tags/
   categories: /categories/
+  Mainpress Demo: /Mainpress/
   #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
