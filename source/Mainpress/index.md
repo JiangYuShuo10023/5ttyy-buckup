@@ -1,0 +1,68 @@
+---
+title: Mainpress Demo Page
+---
+{% raw %}
+<html>
+
+    <head>
+	<title>Mainpress Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Mainpress</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html">主页</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron text-center" style="margin-bottom:1">
+  <h1>Mainpress Demo</h1>
+  <p>Coding Is Happy!</p>
+</div>
+
+<div class="container">
+  <div class="row">
+
+      <ul class="nav nav-pills nav-stacked">
+      </ul>
+      <hr class="hidden-sm hidden-md hidden-lg">
+    </div>
+    <div class="col-sm-8">
+	  <!-- My Blog Here -->
+	  </p>
+
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <p>
+	2020 FatManDJ
+	<br>
+	友情链接:
+	<br>
+	<li class="active"><a href="https://www.cnblogs.com/blog-xhg78999/">朋友博客</a></li>
+  </p>
+  <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+  <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+
+                     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</div>
+    </body>
+</html>
+{% endraw %}
