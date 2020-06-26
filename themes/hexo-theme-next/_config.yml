@@ -374,9 +374,9 @@ back2top:
 reading_progress:
   enable: true
   # Available values: top | bottom
-  position: bottom
+  position: top
   color: "#000000"
-  height: 3px
+  height: 10px
 
 # Bookmark Support
 bookmark:
