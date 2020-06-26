@@ -338,7 +338,7 @@ calendar:
 # Set the text alignment in posts / pages.
 text_align:
   # Available values: start | end | left | right | center | justify | justify-all | match-parent
-  desktop: end
+  desktop: center
   mobile: justify
 
 # Reduce padding / margin indents on devices with narrow width.
@@ -354,7 +354,7 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: solarized
+  highlight_theme: night
   # Add copy button on codeblock
   copy_button:
     enable: true
