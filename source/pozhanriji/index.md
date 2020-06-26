@@ -25,4 +25,4 @@ date: 2010-02-08
 增加评论系统
 
 # 2020/6/27
-移除评论系统,增加bilibili,mainpress页
+移除评论系统,增加bilibili,mainpress页,更改菜单顺序
