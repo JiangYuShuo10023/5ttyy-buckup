@@ -119,7 +119,7 @@ menu:
   home: /
   tags: /tags/
   categories: /categories/
-  小破站日记: /pozhanriji/
+  History: /pozhanriji/
   Mainpress Demo: /Mainpress/
   Bilibili: /bilbili_videos/
   #archives: /archives/ || fa fa-archive
@@ -369,7 +369,7 @@ codeblock:
 back2top:
   enable: true
   # Back to top in sidebar.
-  sidebar: false
+  sidebar: true
   # Scroll percent label in b2t button.
   scrollpercent: true
 
@@ -379,7 +379,7 @@ reading_progress:
   # Available values: top | bottom
   position: top
   color: "#000000"
-  height: 10px
+  height: 5px
 
 # Bookmark Support
 bookmark:
