@@ -120,7 +120,7 @@ menu:
   about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
-  archives: /archives/ || fa fa-archive
+  #archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
@@ -202,6 +202,7 @@ links_settings:
 
 links:
   友情链接:XHG78999的博客: https://www.cnblogs.com/blog-xhg78999/
+  备用博客: https://fatmandj.rthe.xyz
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
