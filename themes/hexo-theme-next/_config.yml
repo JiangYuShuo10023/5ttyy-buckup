@@ -119,7 +119,7 @@ menu:
   home: /
   tags: /tags/
   categories: /categories/
-  History: /pozhanriji/
+  小破站日记: /pozhanriji/
   Mainpress Demo: /Mainpress/
   Bilibili: /bilbili_videos/
   #archives: /archives/ || fa fa-archive
@@ -192,7 +192,7 @@ social:
 
 social_icons:
   enable: true
-  icons_only: true
+  icons_only: false
   transition: false
 
 # Blog rolls
@@ -255,7 +255,7 @@ post_meta:
 symbols_count_time:
   separated_meta: true
   item_text_post: true
-  item_text_total: true
+  item_text_total: false
 
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: false
