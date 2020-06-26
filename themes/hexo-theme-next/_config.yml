@@ -117,7 +117,6 @@ darkmode: false
 menu:
   小破站日记: /pozhanriji/ || fa fa-user
   home: / || fa fa-home
-  about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   #archives: /archives/ || fa fa-archive
